@@ -1,0 +1,7 @@
+- Pixi.js pour de la 2D
+- Commandes :
+	-npm init -y
+	-npm i vite
+mettre le "dev" et "build" dans package.json
+	-npm i three
+	-npm run dev
