@@ -3,3 +3,4 @@
 *.glb
 *.bin
 **/node_modules
+**/static/
